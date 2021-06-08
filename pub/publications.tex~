@@ -1,0 +1,63 @@
+\documentclass[11pt]{article}
+\usepackage{amsmath,amssymb,psfrag,latexsym,epsfig,epic,amsthm,multicol,url,setspace}
+\pagestyle{empty}
+\textwidth 6.54in
+\textheight 8.7in
+\oddsidemargin 0in
+\topmargin -0.1in
+\parskip 0mm
+\renewcommand{\refname}{\small{PUBLICATIONS}}
+\usepackage{url}
+
+\newcommand{\btr}{ $\centerdot$}
+%% Define a new 'leo' style for the package that will use a smaller font.
+\makeatletter
+\def\url@leostyle{%
+  \@ifundefined{selectfont}{\def\UrlFont{\sf}}{%
+    \def\UrlFont{\small\ttfamily}}\Url@do
+}
+\makeatother
+
+
+\begin{document}
+
+
+\title{ \normalsize CHANDRASEKHAR MADHAVAN NAIR\\
+\normalsize (CHANDRA NAIR)} 
+
+\author{\small Assistant Professor\\
+\small Department of Information Engineering\\ 
+\small \url{cnair@ie.cuhk.edu.hk}\\
+\small Office: +852 2609 8467}
+
+
+
+\date{}
+\maketitle
+\thispagestyle{empty}
+\vspace{-0.3in}
+\hrule
+\vspace{0.02in}
+
+
+
+
+
+
+
+
+\nocite{pnpy01,nps01, enpuz02,nai02,nps03,nps04,now05,npsj05,
+bcmn05a,bcmn05b,nae06, nae07,ban06,nps07,hjlnw06, bgknt07, hknw07}
+
+
+\bibliographystyle{ieeetr} \bibliography{mybiblio}
+
+
+
+
+
+ 
+
+
+\end{document}
+

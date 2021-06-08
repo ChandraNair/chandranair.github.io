@@ -1,0 +1,167 @@
+\providecommand{\bysame}{\leavevmode\hbox to3em{\hrulefill}\thinspace}
+\providecommand{\MR}{\relax\ifhmode\unskip\space\fi MR }
+% \MRhref is called by the amsart/book/proc definition of \MR.
+\providecommand{\MRhref}[2]{%
+  \href{http://www.ams.org/mathscinet-getitem?mr=#1}{#2}
+}
+\providecommand{\href}[2]{#2}
+\begin{thebibliography}{10}
+
+\bibitem{ahg76}
+Rudolf Ahlswede and Peter G{\'a}cs, \emph{Spreading of sets in product spaces
+  and hypercontraction of the markov operator}, The Annals of Probability
+  (1976), 925--939.
+
+\bibitem{ald01}
+D~J Aldous, \emph{The $\zeta(2)$ limit in the random assignment problem},
+  Random Structures and Algorithms \textbf{18} (2001), 381--418.
+
+\bibitem{agkn14}
+Venkat Anantharam, Amin Gohari, Sudeep Kamath, and Chandra Nair, \emph{On
+  hypercontractivity and a data processing inequality}, 2014 IEEE International
+  Symposium on Information Theory (ISIT'2014) (Honolulu, USA), June 2014,
+  pp.~3022--3026.
+
+\bibitem{agn13}
+Venkat Anantharam, Amin~Aminzadeh Gohari, and Chandra Nair, \emph{Improved
+  cardinality bounds on the auxiliary random variables in {M}arton{\rq}s inner
+  bound}, International Symposium on Information Theory (Istanbul, Turkey),
+  July 2013, pp.~1272--1276.
+
+\bibitem{beg15}
+Salman Beigi and Amin Gohari, \emph{On the duality of additivity and
+  tensorization}, CoRR \textbf{abs/1502.00827} (2015).
+
+\bibitem{bcmn09a}
+C~Borgs, J~T Chayes, S~Mertens, and C~Nair, \emph{Proof of the local rem
+  conjecture for number partitioning {I}: Constant energy scales}, Random
+  Structures and Algorithms \textbf{34(2)} (2009), 217--240.
+
+\bibitem{bcmn09b}
+\bysame, \emph{Proof of the local rem conjecture for number partitioning {II}:
+  Growing energy scales}, Random Structures and Algorithms \textbf{34(2)}
+  (2009), 241--284.
+
+\bibitem{ggny14}
+Y.~Geng, A.~Gohari, C.~Nair, and Y.~Yu, \emph{On {M}arton's inner bound and its
+  optimality for classes of product broadcast channels}, IEEE Transactions on
+  Information Theory \textbf{60} (2014), no.~1, 22--41.
+
+\bibitem{gen14}
+Y.~Geng and C.~Nair, \emph{The capacity region of the two-receiver {G}aussian
+  vector broadcast channel with private and common messages}, IEEE Transactions
+  on Information Theory \textbf{60} (2014), no.~4, 2087--2104.
+
+\bibitem{gjnw13}
+Yanlin Geng, Varun Jog, Chandra Nair, and Zizhou~Vincent Wang, \emph{An
+  information inequality and evaluation of {M}arton's inner bound for binary
+  input broadcast channels}, IEEE Transactions on Information Theory
+  \textbf{59} (2013), no.~7, 4095--4105.
+
+\bibitem{goa09}
+A.~A. Gohari and V.~Anantharam, \emph{Evaluation of {M}arton's inner bound for
+  the general broadcast channel}, 2009 IEEE International Symposium on
+  Information Theory, June 2009, pp.~2462--2466.
+
+\bibitem{hak81}
+Te~Han and K.~Kobayashi, \emph{A new achievable rate region for the
+  interference channel}, Information Theory, IEEE Transactions on \textbf{27}
+  (1981), no.~1, 49--60.
+
+\bibitem{jon09}
+V~Jog and C~Nair, \emph{An information inequality for the bssc channel},
+  Proceedings of the ITA Workshop (2010).
+
+\bibitem{lnx14c}
+Sida Liu, Chandra Nair, and Lingxiao Xia, \emph{Interference channels with very
+  weak interference}, 2014 IEEE International Symposium on Information Theory
+  (ISIT'2014) (Honolulu, USA), June 2014, pp.~1031--1035.
+
+\bibitem{mar79}
+K.~Marton, \emph{A coding theorem for the discrete memoryless broadcast
+  channel}, IEEE Transactions on Information Theory \textbf{25} (1979), no.~3,
+  306--311.
+
+\bibitem{mep85}
+M~M{\'e}zard and G~Parisi, \emph{Replicas and optimization}, J. Physique Lett.
+  \textbf{486} (1985), 771--779.
+
+\bibitem{nai05}
+C~Nair, \emph{Proofs of the {P}arisi and {C}oppersmith-{S}orkin conjectures in
+  the random assignment problem}, Ph.D. thesis, Stanford University, 2005.
+
+\bibitem{nai10}
+C.~Nair, \emph{Capacity regions of two new classes of two-receiver broadcast
+  channels}, IEEE Transactions on Information Theory \textbf{56} (2010), no.~9,
+  4207--4214.
+
+\bibitem{nai14b}
+C~Nair, \emph{Equivalent formulations of hypercontractivity using information
+  measures}, International Zurich Seminar (2014).
+
+\bibitem{nae09}
+C.~Nair and A.~{El Gamal}, \emph{The capacity region of a class of
+  three-receiver broadcast channels with degraded message sets}, Information
+  Theory, IEEE Transactions on \textbf{55} (2009), no.~10, 4479--4493.
+
+\bibitem{nae07}
+C~Nair and A~{El Gamal}, \emph{An outer bound to the capacity region of the
+  broadcast channel}, IEEE Trans. Info. Theory \textbf{IT-53} (January, 2007),
+  350--355.
+
+\bibitem{nke16}
+C.~Nair, H.~Kim, and A.~El Gamal, \emph{On the optimality of randomized time
+  division and superposition coding for the broadcast channel}, 2016 IEEE
+  Information Theory Workshop (ITW), Sept 2016, pp.~131--135.
+
+\bibitem{npsj05}
+C~Nair, B~Prabhakar, and M~Sharma, \emph{Proofs of the {P}arisi and
+  {C}oppersmith-{S}orkin random assignment conjectures}, Random Structures and
+  Algorithms \textbf{27(4)} (2005), 413--444.
+
+\bibitem{naw16}
+C.~Nair and Y.~N. Wang, \emph{Evaluating hypercontractivity parameters using
+  information measures}, 2016 IEEE International Symposium on Information
+  Theory (ISIT), July 2016, pp.~570--574.
+
+\bibitem{naw08}
+C~Nair and Z~V Wang, \emph{On the inner and outer bounds for 2-receiver
+  discrete memoryless broadcast channels}, Proceedings of the ITA Workshop
+  (2008).
+
+\bibitem{naw10}
+\bysame, \emph{The capacity region of a class of broadcast channels with a
+  sequence of less noisy receivers}, International Symposium on Information
+  Theory (2010).
+
+\bibitem{nxy15c}
+C.~Nair, L.~Xia, and M.~Yazdanpanah, \emph{Sub-optimality of {H}an-{K}obayashi
+  achievable region for interference channels}, 2015 IEEE International
+  Symposium on Information Theory (ISIT), June 2015, pp.~2416--2420.
+
+\bibitem{nai13}
+Chandra Nair, \emph{Upper concave envelopes and auxiliary random variables},
+  International Journal of Advances in Engineering Sciences and Applied
+  Mathematics \textbf{5} (2013), no.~1, 12--20 (English).
+
+\bibitem{naw17}
+Chandra Nair and Yan~Nan Wang, \emph{Reverse hypercontractivity region for the
+  binary erasure channel}, 2017 IEEE International Symposium on Information
+  Theory (ISIT) (ISIT'2017) (Aachen, Germany), June 2017, pp.~938--942.
+
+\bibitem{nax12}
+Chandra Nair and Lingxiao Xia, \emph{On {Three-Receiver} more capable
+  channels}, 2012 IEEE International Symposium on Information Theory
+  (ISIT'2012) (Cambridge, Massachusetts, USA), July 2012, pp.~383--387.
+
+\bibitem{nay17}
+Chandra Nair and Mehdi Yazdanpanah, \emph{Sub-optimality of superposition
+  coding region for three receiver broadcast channel with two degraded message
+  sets}, 2017 IEEE International Symposium on Information Theory (ISIT)
+  (ISIT'2017) (Aachen, Germany), June 2017, pp.~1038--1042.
+
+\bibitem{par98}
+G~Parisi, \emph{A conjecture on random bipartite matching}, Technical Report
+  cond-mat/9801176, XXX LANL Archive (1998).
+
+\end{thebibliography}

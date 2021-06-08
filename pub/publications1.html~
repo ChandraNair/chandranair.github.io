@@ -1,0 +1,461 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+  <head>
+    <meta content="text/html; charset=iso-8859-1" http-equiv="Content-Type">
+    <title>
+      Chandra Nair - Publications
+    </title>
+    <meta content="Chandra Nair" name="author">
+    <meta content="Publications of Chandra Nair" name="description">
+    <STYLE TYPE="text/css">
+      <!--
+        .indented
+        {
+          padding-left: 50pt;
+          padding-right: 50pt;
+        }
+        -->
+    </STYLE>
+  </head>
+        
+  <body  bgcolor=white text=black link=blue vlink=green alink=red>
+  
+<a name="inf"></a>
+<p style="text-align:center;"><STRONG> <font color=purple>PUBLICATIONS</font> </STRONG>
+</p>
+
+<hr>  
+  
+  	
+ <b><i>Disclaimer:</i></b> Due to copyright agreements the versions of papers on this page may differ slightly from the actual published versions.
+       
+ <hr>
+ 
+ 
+    
+    
+     <a name="inf"></a>
+<STRONG> <font color=purple>BROADCAST CHANNEL</font> </STRONG>
+<p>
+    
+    
+    <li>
+      <cite>
+      Capacity regions of two new classes of 2-receiver broadcast channels,
+      </cite>
+      [<a href="papers/CN2class.pdf">pdf</a>]
+      <br> C. Nair. </br>
+      <code>
+        Accepted: ISIT, 2009.
+      </code>
+      <br> </br>
+    </li>  
+    
+	<li>
+      <cite>
+      Comments on ``Broadcast Channels with Arbitrarily Correlated Sources''
+      </cite>
+      [<a href="papers/GKCNib.pdf">pdf</a>]
+      <br> G. Kramer and C.Nair. </br>
+      <code>
+       Accepted: ISIT, 2009. 
+      </code>
+      <br> </br>
+    </li>      
+    
+    <li>
+      <cite>
+      On the inner and outer bounds of 3-receiver broadcast channels 
+with 2-degraded message sets,
+      </cite>
+      [<a href="papers/BC-3rec.pdf">pdf</a>]
+      <br> C. Nair and V.W. Zizhou. </br>
+      <code>
+       Accepted: ISIT, 2009. 
+      </code>
+      <br> </br>
+    </li>  
+    
+    <li>
+      <cite>
+      An outer bound for 2-receiver discrete memoryless broadcast channels,
+      </cite>
+      [<a href="papers/outerbound.pdf">pdf</a>]
+      <br> C. Nair. </br>
+      <code>
+        ArXiv: cs.IT/0807.3593
+      </code>
+      <br> </br>
+    </li>  
+     
+   
+  
+  <li>
+      <cite>
+        On the inner and outer bounds for 2-receiver discrete memoryless broadcast channels,
+      </cite>
+      [<a href="papers/BC-ITAsd.pdf">pdf</a>]
+      <br> C. Nair and V.W. Zizhou. </br>
+      <code>
+        Proceedings of the ITA workshop, San Diego, 2008.
+      </code>
+      <br> </br>
+    </li>
+  
+  <li>
+      <cite>
+        The Capacity Region of a Class of 3-Receiver Broadcast Channels with
+Degraded Message Sets, 
+      </cite>
+      <tt> Complete version - </tt> [<a href="papers/DBC-IT-submit.pdf">pdf</a>], <tt> A short version - </tt> [<a href="papers/DBC-isit-submit.pdf">pdf</a>]
+      <br> C. Nair and A. El Gamal. </br>
+      <code>
+        Proceedings of the International Symposium on Information Theory,pp. 1706-1710, 2008. </br>
+        Submitted: IEEE Transactions on Information Theory.
+      </code>
+      <br> </br>
+    </li>
+  
+  
+    
+    <br> </br>
+    
+    <hr>
+    <br> </br>
+    
+            
+    <h3 style="text-decoration: underline;" align="center">
+      Reasonably complete list of Publications
+    </h3>
+    
+    
+    
+    
+      <h4>
+        Combinatorial Optimization
+      </h4>
+      
+      <li>
+        <cite>
+          Towards the resolution of Coppersmith-Sorkin conjectures, 
+        </cite> 
+        [<a href="papers/CS-all02.pdf">pdf</a>]
+        <br> C. Nair. </br>
+        <code>
+          Proceedings of the 40th Annual Allerton Conference on Communication, Control and Computing, 2002.
+        </code>
+        <br> </br>
+    </li>
+    
+    <li>
+      <cite>
+        Proofs of the Parisi and Coppersmith-Sorkin conjectures for the finite random assignment problem,
+      </cite>
+      [<a href="papers/PCS-focs03.pdf">pdf</a>]
+      <br> C. Nair, B. Prabhakar, and M. Sharma. </br>
+      <code>
+        Proceedings of the IEEE Foundations of Computer Science (FOCS), pp. 168-178, 2003.
+      </code>
+      <br> </br>
+    </li>
+      
+    <li>
+      <cite>
+        A new proof of the Parisi's conjecture for the random assignment problem,
+      </cite>
+      <br> C. Nair, B. Prabhakar, and M. Sharma. </br>
+      <code>
+        Proceedings of the International Symposium on Information Theory, p. 61, 2004.
+      </code>
+      <br> </br>
+    </li>
+    
+    <li>
+      <cite>
+        Towards the distribution of the smallest matching in the random assignment problem,
+      </cite>
+      [<a href="papers/DIST-all04.pdf">pdf</a>]
+      <br> C. Nair. </br>
+      <code>
+        Proceedings of the 42nd Annual Allerton Conference on Communication, Control and Computing, 2004.
+      </code>
+      <br> </br>
+    </li>
+    
+    <li>
+      <cite>
+        Proofs of the Parisi and Coppersmith-Sorkin random assignment conjectures,
+      </cite>
+      [<a href="papers/PCS-rsa05.pdf">pdf</a>]
+      <br> C. Nair, B. Prabhakar, and M. Sharma. </br>
+      <code>
+        Random Structures and Algorithms, vol. 27(4), pp. 413-444, 2005.
+      </code>
+      <br> </br>
+    </li>
+
+    
+    <li>
+      <cite>
+        Proof of the local REM conjecture for number partitioning I: Constant energy scales,
+      </cite>
+      [<a href="papers/REMI-rsa09.pdf">pdf</a>]
+      <br> C. Borgs, J. T. Chayes, S. Mertens, and C. Nair. </br>
+      <code>
+        Random Structures and Algorithms, vol. 34(2), pp. 217-240, 2009.
+      </code>
+      <br> </br>
+    </li>
+    
+    <li>
+      <cite>
+        Proof of the local REM conjecture for number
+        partitioning II: Growing energy scales,
+      </cite>
+      [<a href="papers/REMII-rsa09.pdf">pdf</a>]
+      <br> C. Borgs, J. T. Chayes, S. Mertens, and C. Nair. </br>
+      <code>
+        Random Structures and Algorithms, vol. 34(2), pp. 241-284, 2009.
+      </code>
+      <br> </br>
+    </li>
+    
+    <h4>
+      Information Theory - Broadcast channel
+    </h4>
+    
+    <li>
+      <cite>
+        An outer bound to the capacity region of the broadcast channel,
+      </cite>
+      [<a href="papers/BC-isit06.pdf">pdf</a>]
+      <br> C. Nair and A. El Gamal. </br>
+      <code>
+        Proceedings of the International Symposium on Information Theory, pp. 2205-2209, 2006.
+      </code>
+      <a href="papers/BC-it07.pdf">pdf</a>]
+      <br> C. Nair and A. El Gamal. </br>
+      <code>
+        IEEE Transactions on Information Theory, vol. IT-53, pp. 350-355, January, 2007.
+      </code>
+      <br> </br>
+    </li>
+    
+    <li>
+      <cite>
+        The Capacity Region of a Class of 3-Receiver Broadcast Channels with
+Degraded Message Sets, 
+      </cite>
+      <tt> Complete version - </tt> [<a href="papers/DBC-IT-submit.pdf">pdf</a>], <tt> A short version - </tt> [<a href="papers/DBC-isit-submit.pdf">pdf</a>]
+      <br> C. Nair and A. El Gamal. </br>
+      <code>
+        Accepted: Proceedings of the International Symposium on Information Theory, 2008. </br>
+        Submitted: IEEE Transactions on Information Theory.
+      </code>
+      <br> </br>
+    </li>
+  
+    <li>
+      <cite>
+        On the inner and outer bounds for 2-receiver discrete memoryless broadcast channels,
+      </cite>
+      [<a href="papers/BC-ITAsd.pdf">pdf</a>]
+      <br> C. Nair and V.W. Zizhou. </br>
+      <code>
+        Proceedings of the ITA workshop, San Diego, 2008.
+      </code>
+      <br> </br>
+    </li>
+    
+    
+    
+    <li>
+      <cite>
+      An outer bound for 2-receiver discrete memoryless broadcast channels,
+      </cite>
+      [<a href="papers/outerbound.pdf">pdf</a>]
+      <br> C. Nair. </br>
+      <code>
+        ArXiv: cs.IT/0807.3593
+      </code>
+      <br> </br>
+    </li>  
+    
+<li>
+      <cite>
+      On the inner and outer bounds of 3-receiver broadcast channels 
+with 2-degraded message sets,
+      </cite>
+      [<a href="papers/BC-3rec.pdf">pdf</a>]
+      <br> C. Nair and V.W. Zizhou. </br>
+      <code>
+       Accepted: ISIT, 2009. 
+      </code>
+      <br> </br>
+    </li>  
+    
+    
+    
+    <li>
+      <cite>
+      Capacity regions of two new classes of 2-receiver broadcast channels,
+      </cite>
+      [<a href="papers/CN2class.pdf">pdf</a>]
+      <br> C. Nair. </br>
+      <code>
+        Accepted: ISIT, 2009.
+      </code>
+      <br> </br>
+    </li>  
+    
+	<li>
+      <cite>
+      Comments on ``Broadcast Channels with Arbitrarily Correlated Sources''
+      </cite>
+      [<a href="papers/GKCNib.pdf">pdf</a>]
+      <br> G. Kramer and C.Nair. </br>
+      <code>
+       Accepted: ISIT, 2009. 
+      </code>
+      <br> </br>
+    </li>      
+    
+    
+    
+    
+    <h4>
+      Algorithms 
+    </h4>
+    
+    <li>
+      <cite>
+        Packet dropping schemes: some examples and
+        analysis,
+      </cite>
+      [<a href="papers/CHOKE-all01.pdf">pdf</a>]
+      <br> R. Pan, C. Nair, B. Prabhakar, and B. Yang. </br>
+      <code>
+        Proceedings of the 39th Annual Allerton Conference on Communication, Control and Computing, pp. 563-572, 2001.
+      </code>
+      <br> </br>
+    </li>
+
+    <li>
+      <cite>
+        Energy-efficient scheduling of packet transmissions over wireless networks,
+      </cite>
+      [<a href="papers/EEW-inf02.pdf">pdf</a>]
+      <br> A. El Gamal, C. Nair, B. Prabhakar, E. Uysal, and S. Zahedi. </br> 
+      <code>
+        Proceedings of the IEEE Infocom Conference, vol. 3, pp. 1773-1782, June, 2002.
+      </code>
+      <br> </br>
+    </li>
+    
+    <li>
+      <cite>
+        A rigorous proof of the cavity method for counting matchings,
+      </cite>
+      [<a href="papers/CM-all06.pdf">pdf</a>]
+      <br> M. Bayati and C. Nair. </br>
+      <code>
+        Proceedings of the 44th Annual Allerton Conference on Communication, Control and Computing,2006.
+      </code>
+      <br> </br>
+    </li>
+      
+    <li>
+      <cite>
+        Simple deterministic approximation algorithms for counting matchings,
+      </cite>
+      [<a href="papers/CM-stoc07.pdf">pdf</a>]
+      <br> M. Bayati, D. Gamarnik, D. Katz, C. Nair, and P. Tetali. </br>
+      <code>
+        Proceedings of the Symposium on Theory of Computation (STOC), pp. 122-127, 2007.
+      </code>
+      <br> </br>
+    </li>
+    
+    
+    <h4>
+      Information Theory - Miscellaneous
+    </h4>
+    
+    <li>
+      <cite>
+        Asymptotic filtering and entropy rate of a hidden Markov process in the rare transitions regime,
+      </cite>
+      [<a href="papers/HMM-isit05.pdf">pdf</a>]
+      <br> C. Nair, E. Ordentlich, and T. Weissman. </br>
+      <code>
+        International Symposium on Information Theory, pp. 1838-1842, 2005.
+      </code>
+      <br> </br>
+    </li>
+    
+    
+    
+    <li>
+      <cite>
+        Conservative network coding,
+      </cite>
+      [<a href="papers/CNC-all06.pdf">pdf</a>]
+      <br> N. J. A. Harvey, K. Jain, L. C. Lau, C. Nair, and Y. Wu. </br>
+      <code>
+        Proceedings of the 44th Annual Allerton Conference on Communication, Control and Computing, 2006.
+      </code>
+      <br> </br>
+    </li>
+    
+    
+    
+    <li>
+      <cite>
+        On entropy for mixtures of discrete and continuous variables,
+      </cite>
+      [<a href="papers/ENT-arx07.pdf">pdf</a>]
+      <br> C. Nair, B. Prabhakar, and D. Shah. </br>
+      <code>
+        Uploaded to ArXiv, 2007.
+      </code>
+      <br> </br>
+    </li>
+    
+    <li>
+      <cite>
+        A 'chicken & egg' network coding problem,
+      </cite>
+      [<a href="papers/CEN-isit07.pdf">pdf</a>]
+      <br> N. J. A. Harvey, R. Klienberg, C. Nair, and Y. Wu. </br>
+      <code>
+        Proceedings of the International symposium on Information Theory, 2007.
+      </code>
+      <br> </br>
+    </li>
+    
+    
+    
+    
+    <h4>
+      Miscellaneous
+    </h4>
+    
+    <li> 
+      <cite>
+        The randomness in randomized load balancing,
+      </cite>
+      [<a href="papers/LB-all01.pdf">pdf</a>]
+      <br> C. Nair, B. Prabhakar, and D. Shah. </br>
+      <code>
+        Proceedings of the 39th Annual Allerton Conference on Communication, Control and Computing,
+        pp. 912-921, 2001. 
+      </code>
+      <br> </br>
+    </li>
+    
+    
+    
+
+
+  </body>
+</html>

@@ -1,0 +1,53 @@
+This is BibTeX, Version 0.99d (TeX Live 2017)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: /Users/chandra/Dropbox/Documents/webpage/pub/.texpadtmp/research-summary.aux
+The style file: amsplain.bst
+Database file #1: mybiblio.bib
+Warning--missing pages in beg15
+Warning--missing pages in jon09
+Warning--missing pages in nai14b
+Warning--missing pages in naw08
+Warning--missing pages in naw10
+Warning--missing pages in par98
+You've used 32 entries,
+            2213 wiz_defined-function locations,
+            680 strings with 8734 characters,
+and the built_in function-call counts, 11275 in all, are:
+= -- 1061
+> -- 429
+< -- 0
++ -- 180
+- -- 138
+* -- 921
+:= -- 1694
+add.period$ -- 32
+call.type$ -- 32
+change.case$ -- 168
+chr.to.int$ -- 0
+cite$ -- 38
+duplicate$ -- 481
+empty$ -- 980
+format.name$ -- 138
+if$ -- 2435
+int.to.chr$ -- 0
+int.to.str$ -- 32
+missing$ -- 63
+newline$ -- 106
+num.names$ -- 62
+pop$ -- 219
+preamble$ -- 1
+purify$ -- 136
+quote$ -- 0
+skip$ -- 362
+stack$ -- 0
+substring$ -- 879
+swap$ -- 130
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 128
+warning$ -- 6
+while$ -- 112
+width$ -- 34
+write$ -- 278
+(There were 6 warnings)

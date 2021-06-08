@@ -1,0 +1,93 @@
+\begin{thebibliography}{10}
+
+\bibitem{pnpy01}
+R.~Pan, C.~Nair, B.~Prabhakar, and B.~Yang, ``Packet dropping schemes: some
+  examples and analysis,,'' {\em Proceedings of the 39th Annual Allerton
+  Conference on Communication, Control and Computing}, pp.~563--572, 2001.
+
+\bibitem{nps01}
+C.~Nair, B.~Prabhakar, and D.~Shah, ``The randomness in randomized load
+  balancing,'' {\em Proceedings of the 39th Annual Allerton Conference on
+  Communication, Control and Computing}, pp.~912--921, 2001.
+
+\bibitem{enpuz02}
+A.~El~Gamal, C.~Nair, B.~Prabhakar, E.~Uysal, and S.~Zahedi, ``Energy-efficient
+  scheduling of packet transmissions over wireless networks,'' {\em Proceedings
+  of the IEEE Infocom Conference}, vol.~3, pp.~1773--1782, June, 2002.
+
+\bibitem{nai02}
+C.~Nair, ``Towards the resolution of {C}oppersmith-{S}orkin conjectures,'' {\em
+  Proceedings of the 40th Annual Allerton Conference on Communication, Control
+  and Computing}, 2002.
+
+\bibitem{nps03}
+C.~Nair, B.~Prabhakar, and M.~Sharma, ``Proofs of the {P}arisi and
+  {C}oppersmith-{S}orkin conjectures for the finite random assignment
+  problem,'' {\em IEEE Foundations of Computer Science (FOCS)}, pp.~168--178,
+  2003.
+
+\bibitem{nps04}
+C.~Nair, B.~Prabhakar, and M.~Sharma, ``A new proof of the {P}arisi's
+  conjecture for the random assignment problem,'' {\em International Symposium
+  on Information Theory}, p.~61, 2004.
+
+\bibitem{now05}
+C.~Nair, E.~Ordentlich, and T.~Weissman, ``Asymptotic filtering and entropy
+  rate of a hidden {M}arkov process in the rare transitions regime,'' {\em
+  International Symposium on Information Theory}, pp.~1838--1842, 2005.
+
+\bibitem{npsj05}
+C.~Nair, B.~Prabhakar, and M.~Sharma, ``Proofs of the {P}arisi and
+  {C}oppersmith-{S}orkin random assignment conjectures,'' {\em Random
+  Structures and Algorithms}, vol.~27(4), pp.~413--444, 2005.
+
+\bibitem{nai05}
+C.~Nair, {\em Proofs of the {P}arisi and {C}oppersmith-{S}orkin Conjectures in
+  the Random Assignment Problem}.
+\newblock PhD thesis, Stanford University, 2005.
+
+\bibitem{bcmn05a}
+C.~Borgs, J.~T. Chayes, S.~Mertens, and C.~Nair, ``Proof of the local rem
+  conjecture for number partitioning {I}: Constant energy scales,'' {\em
+  Submitted to: Random Structures and Algorithms}, 2005.
+
+\bibitem{bcmn05b}
+C.~Borgs, J.~T. Chayes, S.~Mertens, and C.~Nair, ``Proof of the local rem
+  conjecture for number partitioning {II}: Growing energy scales,'' {\em
+  Submitted to: Random Structures and Algorithms}, 2005.
+
+\bibitem{nae06}
+C.~Nair and A.~El~Gamal, ``An outer bound to the capacity region of the
+  broadcast channel,'' {\em International Symposium on Information Theory},
+  pp.~2205--2209, 2006.
+
+\bibitem{nae07}
+C.~Nair and A.~El~Gamal, ``An outer bound to the capacity region of the
+  broadcast channel,'' {\em IEEE Transactions on Information Theory},
+  vol.~IT-53, pp.~350--355, January, 2007.
+
+\bibitem{ban06}
+M.~Bayati and C.~Nair, ``A rigorous proof of the cavity method for counting
+  matchings,'' {\em Proceedings of the 44th Annual Allerton Conference on
+  Communication, Control and Computing}, 2006.
+
+\bibitem{nps07}
+C.~Nair, B.~Prabhakar, and D.~Shah, ``On entropy for mixtures of discrete and
+  continuous variables,'' {\em ArXiv:Pre-print available}, 2007.
+
+\bibitem{hjlnw06}
+N.~J.~A. Harvey, K.~Jain, L.~C. Lau, C.~Nair, and Y.~Wu, ``Conservative network
+  coding,'' {\em Proceedings of the 44th Annual Allerton Conference on
+  Communication, Control and Computing}, 2006.
+
+\bibitem{bgknt07}
+M.~Bayati, D.~Gamarnik, D.~Katz, C.~Nair, and P.~Tetali, ``Simple deterministic
+  approximation algorithms for counting matchings,'' {\em Proceedings of the
+  Symposium on Theory of Computation}, pp.~122--127, 2007.
+
+\bibitem{hknw07}
+N.~J.~A. Harvey, R.~Klienberg, C.~Nair, and Y.~Wu, ``A `chicken \& egg '
+  network coding problem,'' {\em Proceedings of the International symposium on
+  Information Theory}, 2007.
+
+\end{thebibliography}

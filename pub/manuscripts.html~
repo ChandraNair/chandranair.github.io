@@ -1,0 +1,215 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+  <head>
+    <meta content="text/html; charset=iso-8859-1" http-equiv="Content-Type">
+    <title>
+      Chandra Nair - Preprints and Manuscripts
+    </title>
+    <meta content="Chandra Nair" name="author">
+    <meta content="Manuscripts of Chandra Nair" name="description">
+    <STYLE TYPE="text/css">
+      <!--
+        .indented
+        {
+          padding-left: 50pt;
+          padding-right: 50pt;
+        }
+        -->
+    </STYLE>
+  </head>
+        
+  <body  bgcolor=white text=black link=blue vlink=green alink=red>
+  
+<a name="inf"></a>
+<p style="text-align:center;"><STRONG> <font color=purple>MANUSCRIPTS</font> </STRONG>
+</p>
+
+<hr>  
+  
+  	
+ <b><i>Disclaimer:</i></b> These files contains miscellaneous results of varying significance. Most of these (in manuscripts) 
+ have never been through a peer review system, though some of the results  have been used (or generalized) in papers which did
+ go through a peer review system.
+ <hr>
+ 
+ 
+ <STRONG> <font color=purple> SITE MAP </font> </STRONG>
+<BR></br>
+<font color=white>
+	<a href="#man">MANUSCRIPTS</a>  <BR>
+	</b></a>
+	</font>
+<!-- <font color=white>
+	<a href="#pre">PREPRINTS</a> <BR>
+	</b></a>
+	</font>-->
+
+    <br> </br>
+    
+    
+    
+     <a name="man"></a>
+<STRONG> <font color=purple>MANUSCRIPTS</font> </STRONG>
+<p>
+
+<ul>
+	
+<li>    
+      <cite>
+       Very Weak Interference Channels
+      </cite>
+       [<a href="papers/manuscripts/VWIC.pdf">pdf</a>] 
+      <br> S. Liu, C. Nair, and L. Xia  </br>
+      <ul>
+        <li type=circle>Full version of the submission to ISIT 2014. </li>
+      </ul>
+     </li> <br>
+     
+     <li>    
+      <cite>
+       Equivalent formulations of Hypercontractivity using
+Information Measures
+      </cite>
+       [<a href="papers/manuscripts/IZS14.pdf">pdf</a>] 
+      <br>  C. Nair </br>
+      <ul>
+        <li type=circle>To be presented at the IZS workshop, 2014. </li>
+      </ul>
+     </li> <br>
+     
+     <li>    
+      <cite>
+       An extremal inequality related to hypercontractivity of Gaussian random variables
+      </cite>
+       [<a href="papers/manuscripts/ITA14.pdf">pdf</a>] 
+      <br>  C. Nair </br>
+      <ul>
+        <li type=circle>Presented at the ITA workshop, 2014. </li>
+      </ul>
+     </li> <br>
+
+<li>    
+      <cite>
+       On Maximal Correlation, Hypercontractivity, and the Data Processing Inequality 
+studied by Erkip and Cover
+      </cite>
+       [<a href="papers/manuscripts/MC-HC-DP.pdf">pdf</a>] 
+      <br> V. Anantharam, A. Gohari, S. Kamath, and C. Nair  </br>
+      <ul>
+        <li type=circle>Uploaded to ArXiv, 2013. </li>
+      </ul>
+     </li> <br>
+	
+	
+	<li>    
+      <cite>
+       On the Achievable Rate Sum for Symmetric Gaussian Interference
+Channels,
+      </cite>
+       [<a href="papers/manuscripts/SGIFC.pdf">pdf</a>] 
+      <br> M. Costa and  C. Nair  </br>
+      <ul>
+        <li type=circle>Presented at the ITA workshop, 2012. </li>
+      </ul>
+     </li> <br>
+     
+     
+  <li>    
+      <cite>
+       On Marton's inner bound for two receiver broadcast channels, 
+      </cite>
+       [<a href="papers/BC/BC-ITA11.pdf">pdf</a>] 
+      <br> Y. Geng, A. Gohari, C. Nair, and Y. Yu </br>
+      <ul>
+        <li type=circle>Presented at the ITA workshop, 2011. </li>
+      </ul>
+     </li> <br>
+  
+
+	 <li>
+      <cite>
+      An Achievability Scheme for the Compound Channel with State Noncausally
+	Available at the Encoder,
+      </cite>
+      [<a href="papers/manuscripts/GP-compound.pdf">pdf</a>]
+      <br> C. Nair, A. El Gamal, and Y-K Chia </br>
+<ul>
+        <li type=circle> Uploaded to ArXiv, 2010. </li> </ul>
+       </li>  <br>
+
+
+<li>
+      <cite>
+      A note on outer bounds for broadcast channel,
+      </cite>
+      [<a href="papers/BC/OB-IZS10.pdf">pdf</a>]
+      <br> C. Nair. </br>
+			<ul>
+			<li type=circle>Presented at the International Zurich Seminar, 2010. </li>
+      </ul>
+    </li>  <br>
+    
+    
+		
+
+    <li>
+      <cite>
+      An outer bound for 2-receiver discrete memoryless broadcast channels,
+      </cite>
+      [<a href="papers/manuscripts/outerbound.pdf">pdf</a>]
+      <br> C. Nair. </br>
+<ul>
+        <li type=circle> Uploaded to ArXiv, 2008. </li> </ul>
+    </li>  <br>
+    
+
+
+    <li>
+      <cite>
+        On entropy for mixtures of discrete and continuous variables,
+      </cite>
+      [<a href="papers/manuscripts/ENT-arx07.pdf">pdf</a>]
+      <br> C. Nair, B. Prabhakar, and D. Shah. </br>
+        <ul>
+        <li type=circle> Uploaded to ArXiv, 2007. </li> </ul>
+    </li> <br>
+    
+    
+    </ul>
+
+<!--    
+     <a name="pre"></a>
+<STRONG> <font color=purple>PREPRINTS</font> </STRONG>
+    
+<ul>
+  <li>    
+      <cite>
+       An information inequality and evaluation of Marton's inner bound
+for binary input broadcast channels, 
+      </cite>
+       [<a href="papers/BC/bineq.pdf">pdf</a>] 
+      <br> Y. Geng, V. Jog, C. Nair, and V. Wang </br>
+      <ul>
+        <li type=circle>(Accepted) IEEE Transactions on Information Theory, 2012. </li>
+      </ul>
+     </li> <br>
+     
+      <li>    
+      <cite>
+      On Marton's inner bound and its optimality for classes of product
+broadcast channels, 
+      </cite>
+       [<a href="papers/manuscripts/mib-pro.pdf">pdf</a>] 
+      <br> Y. Geng, V. Jog, C. Nair, and V. Wang </br>
+      <ul>
+        <li type=circle>(Submitted) IEEE Transactions on Information Theory, 2012. </li>
+      </ul>
+     </li> 
+     
+     </ul>
+     
+     -->
+
+
+  </body>
+</html>

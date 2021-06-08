@@ -1,0 +1,96 @@
+% !TEX TS-program = pdflatex
+% !TEX encoding = UTF-8 Unicode
+
+% This is a simple template for a LaTeX document using the "article" class.
+% See "book", "report", "letter" for other types of document.
+
+\documentclass[11pt]{paper} % use larger type; default would be 10pt
+
+\input{Cheadmin.tex}
+\usepackage[margin=1.2in]{geometry}
+\usepackage{bbm,hyperref}
+\hypersetup{colorlinks=true}
+
+%\input{defns.tex}
+
+
+
+
+
+%%% END Article customizations
+
+%%% The "real" document content comes below...
+
+\title{Research Summary\thanks{Last Updated: 23 November, 2017.}}
+\author{Chandra Nair}
+%\date{} % Activate to display a given date or no date (if empty),
+         % otherwise the current date is printed 
+
+
+
+\begin{document}
+\maketitle
+
+\section*{Overview}
+
+In my early research career I considered random versions of combinatorial optimization problems;  my doctoral thesis\cite{nai05} resolved a long-standing conjecture about the assignment problem and my post-doctoral work resolved another conjecture about the number partitioning problem\cite{bcmn09a,bcmn09b}. Upon joining as a faculty member in the Information Engineering department of The Chinese University of Hong Kong, my research focus shifted to fundamental problems in  information theory.
+
+{\it Engineering motivations:} The assignment problem tackles a problem of assigning customers to queues/buffers so as to minimize the total weight. The number partitioning problem tackles a problem of assigning jobs to partitions to minimize the load differential. Both of these problems often arise naturally when looking at load balancing, delay-minimizing, throughput-maximizing type scenarios which arise ubiquitously in many engineering applications. The optimization problems in  information theory occur naturally in many wireless settings, with an eye to maximize resource utilization. While my research has been driven primarily by theoretical considerations, the results also provide several practical insights, for example, into structure of optimal (or near optimal) codes, and properties of the extremizers of non-convex problems.
+
+
+  The non-convex problems in information theory arose as follows: There were computable regions proposed in the late seventies  or early eighties \cite{mar79,hak81}, and in the case of broadcast channel there was also an outer bound to the capacity region\cite{mar79}. It was not known whether these regions were the true capacity region or not, and in the case of the broadcast channel, whether even the two computable inner and outer bounds matched or not. To show the sub-optimality or gap between the bounds, one had to evaluate the optimizers of two different non-convex functionals over possibly infinite dimensional probability spaces and show that their values differed. On the other hand, determining the optimality of bounds amounted to showing sub-additivity of certain functionals\cite{nai13,ggny14} in probability spaces, which in turn was related to tensorization of certain parameters. 
+
+ The above serendipitous discovery motivated us to study other quantities that were known to tensorize such as the hypercontractivity region, already of considerable interest to probabilists and computer scientists. The research that followed unearthed equivalent characterizations of hypercontractivity in terms of information measures \cite{agkn14,nai14b}; and in turn implied that the optimization problems that we were dealing with, to compute the regions, were directly similar to computing hypercontractivity parameters for certain joint distributions  (hence possibly explaining the difficulty).
+ 
+  In the limited time since this discovery, we were vindicated when the information theoretic tools and techniques that we developed could help us compute hypercontractivity parameters in novel settings\cite{naw16,naw17}. We still hold out hope that modification of existing techniques in hypercontractivity can help us determine the sub-additivity of certain functionals of interest in information-theoretic problems. The interplay between these two disciplines, forgotten since \cite{ahg76}, has been actively revived with other information-theorists also taking  interest in exploring these connections from other perspectives.
+
+I was also intrigued by the fact that for certain classes of channels where capacity regions had been established for two receivers and for which  natural, and seemingly optimal, generalizations existed to more than two receivers; similar capacity results had not been established, nor was the optimality/sub-optimality of these natural extensions known. 
+
+
+
+
+
+
+
+\section*{Highlights of research contributions}
+
+I have been fortunate to have had some excellent research collaborators.  I worked on some classical information theory problems with Abbas El Gamal; and on information theoretic problems and its connections to hypercontractivity with Venkat Anantharam and Amin Gohari. I would also like to acknowledge the contributions of my doctoral students: Yanlin Geng, Sida Liu, David Ng, Vincent Wang,  Yan Nan Wang, Lingxiao Xia, and Mehdi Yazdanpanah. I will describe some of our main research contributions below.
+
+
+\begin{itemize}
+ \renewcommand{\labelitemi}{\scriptsize$\blacksquare$}
+ \item {\it Hypercontractivity and sub-additive functionals}: This line of research was directly motivated by trying to prove/disprove sub-additivity of certain functionals in information theory. In \cite{agkn14} we  related optimization problems involving mutual information and hypercontractivity via the pioneering work in \cite{ahg76}. In \cite{nai14b}, this characterization using mutual information was extended to the entire hypercontractive region. The equivalence to information measures also helped us compute the hypercontractivity parameters for the binary erasure channel \cite{naw16,naw17}. Soon it was shown by Beigi and Gohari \cite{beg15} that computing hypercontractivty parameters and the computation of the Gray-Wyner region amounted to the same optimization problem. My short-term research interest in this area is two-fold: $(i)$ to determine efficient algorithms, if any, to compute hypercontractive parameters using the geometry induced by the information theoretic characterization on the space of probability distributions, $(ii)$ to determine if there is a connection between a global tensorization phenomenon and a local tensorization phenomenon which could once again shed light on the functionals in this space that do tensorize.
+ 
+ \item  {\it Two-receiver broadcast channel} : A two-receiver broadcast channel communication scenario consists of a single sender who needs to communicate two  different messages to two different receivers respectively, where each of the receivers sees  a different noisy representation of the signal transmitted. In a nutshell, one needs to determine how to optimally make use of the diversity in the channels to the two receivers to simultaneously transmit information to the different receivers. The best achievable rate region to this problem is due to Marton \cite{mar79}, and the best known outer bound was due to Korner and Marton \cite{mar79}. 
+     
+      In \cite{nae07} we showed that the inner and outer bounds do not necessarily agree and proposed an outer bound, UV outer-bound, that evaluates to a region strictly inside the outer bound of Korner and Marton \cite{mar79} for a specific channel. Then
+      we conjectured an information inequality for a candidate channel \cite{naw08} , which if true, would imply that Marton's inner bound and the UV outer bound would not yield the same region. Amin Gohari and Venkat Anantharam \cite{goa09}, without establishing the information inequality, showed that the bounds indeed differed for the candidate channel. Extending the techniques in \cite{goa09}, we established the information inequality and extended it to a much more general setting\cite{jon09,gjnw13}. Properties of extremal auxiliaries were then used to establish capacity regions for some settings \cite{nai10} and also led to the observation that extremal auxiliaries are related to expression of regions using concave envelopes \cite{nai13}.
+     
+      In \cite{ggny14} we formulated the optimality of Marton's inner bound in terms of a sub-additivity statement, with the aid of a new min-max result, and using this we established the capacity for a class that strictly superseded all classes of discrete memoryless channels for which capacity had been established. Further, it enabled us to identify an example where Marton's inner bound was optimal and the UV outer bound was strictly sub-optimal.  Building on the insights from \cite{ggny14}, we applied the sub-additivity ideas to the vector Gaussian broadcast channel with common and private messages and established its capacity region \cite{gen14}. The sub-additivity ideas led to a new argument for establishment of optimality of Gaussian auxiliaries in information theory settings and this paper received the {\it 2016 Information Theory Society paper award}. An overview of this  technique can also be found in the following information theory society \href{http://www.itsoc.org/publications/newsletters/march-2017-issue/view}{newsletter}.
+      
+    Combining the representation of concave envelopes and the perturbation ideas introduced in \cite{goa09}, we were able to improve the cardinality bounds \cite{agn13} of the extremal auxiliaries that are used to evaluate the Marton's inner bound, thus making it amenable to  numerically accurate computations of the region for quaternary input alphabets. It is still surprising, possibly pointing to the optimality of Marton's expression, that we have not been able to find counterexamples to the optimality of Marton's region. Recently, we established \cite{nke16}  the slope of the capacity region for a generic two receiver broadcast channel near its corner points.
+    
+    
+\item  {\it Three(or more)-receiver broadcast channel} : In this setting, my research interest is in studying settings where capacity has been established for the two-receiver case, and for which there is a natural generalization of the optimal strategy to the three or more receiver case. The question is then to determine whether these natural generalizations yield capacity regions or are sub-optimal. We exhibited the sub-optimality of the superposition coding region for various settings in \cite{nae09}, \cite{nax12}, and \cite{nay17}. While the first-two papers showed the result via identifying the exact capacity regions; the third result was obtained by showing that the 2-letter extension improved on the one-letter region thus breaking the sub-additivity. All of these involved non-trivial optimization of non-convex functionals. In \cite{naw10}, we showed (by devising a new information inequality) that optimality of superposition coding region extends to three receivers for a less-noisy ordering. 
+
+\item {\it Interference channel} : The main result in this problem that we obtained was to demonstrate the sub-optimality of the Han--Kobayashi achievable region \cite{nxy15c}, thus resolving a problem that had been open for three decades. This result built on the tools we had developed for computing the optimizers of the non-convex functionals. On the other hand, recently we showed that multi-letter extensions of Gaussian inputs do not improve on the  Han--Kobayashi achievable region for the scalar Gaussian interference channel. We also obtained capacity regions for some classes of interference channels \cite{lnx14c} where the sub-additivity is demonstrated by lifting the functional to a larger space and performing a minimization over the lifting maps.
+
+\item {\it Number Partitioning Problem}: In this problem we resolved the Random Energy Model(REM) conjecture regarding locations of the local minimizers as well as the values induced by these minimizers. The REM conjecture essentially implied that the local minimizers were, as if, they were sprinkled uniformly among all possible partitions, and further the  values at these minimizers converged to a non-homogenous Poisson process. We established the Poisson convergence \cite{bcmn09a,bcmn09b} using the factorial moments method and had to develop some strong form of local limit theorems in the process.
+
+
+\item {\it Random Assignment Problem}: In a complete $n \times n$ bipartite graph with with independent edge weights Parisi \cite{par98,mep85} conjectured that the expected weight of the least heavy complete matching would be $\frac{1}{1^2} + \frac{1}{2^2} + \cdots + \frac{1}{n^2}$. This conjectured had attracted a fair bit of attention from the combinatorics and math community since mid-eighties. In a remarkable piece of work David Aldous \cite{ald01} established the large-$n$ limiting result. In my thesis \cite{npsj05,nai05}, a solution was provided for the finite-$n$ case; (the conjecture was also resolved independently and simultaneously by Linusson and Wastlund using completely different techniques). The conjecture was established using a series of lemmas about combinatorial properties of matchings, some of which were discovered in the process of solving this problem.
+
+
+\end{itemize}
+
+
+
+
+
+  
+\newpage
+{\small 
+\bibliographystyle{amsplain}
+\bibliography{mybiblio}}
+
+\end{document}
